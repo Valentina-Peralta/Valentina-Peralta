@@ -1,4 +1,4 @@
-#  👋 Hi, welcome to my Github profile!
+#  👋 Hi, welcome to my GitHub profile!
 I'm Valentina, web developer and mathematics teacher.
 
 ##  👀 About me
