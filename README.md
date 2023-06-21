@@ -1,5 +1,5 @@
-#  👋 Hi, I’m Valentina Peralta
-Welcome to my GitHub profile! I'm Valentina, web developer and mathematics teacher.
+#  👋 Hi, welcome to my Github profile!
+I'm Valentina, web developer and mathematics teacher.
 
 ##  👀 About me
 I enjoy creating solutions and developing successful digital experiences that exceed expectations. With a natural curiosity for unraveling how things work, I constantly seek the best solutions to problems.
