@@ -10,13 +10,6 @@ Driven by a strong belief that knowledge empowers and a deep desire to make the 
 
 ![image](https://github.com/Valentina-Peralta/Valentina-Peralta/assets/125395224/f5dce256-9cc7-4a6e-a37c-9775a3a3e33a)
 
-## 📚 Learning / to learn
-Currently, I am focusing on expanding my skills in the following areas:
-
-- Three.js
-- Python
-- Amazon Web Services (AWS)
-
 ## 📬 Get in touch
 If you'd like to connect or have any questions, feel free to reach out to me. You can find my contact information below:
 
