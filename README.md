@@ -2,9 +2,9 @@
 I'm Valentina, web developer and mathematics teacher.
 
 ##  👀 About me
-I enjoy creating solutions and developing successful digital experiences. With a natural curiosity for unraveling how things work, I constantly seek the best solutions to problems.
-
 Driven by a strong belief that knowledge empowers and a deep desire to make the world a better place, I initially pursued a career as a mathematics teacher. However, I later decided to merge my creativity and analytical thinking, which led me to discover the limitless world of programming.
+
+What fascinates me the most is the idea that there's always something new to learn and a problem to solve. Every line of code represents an opportunity to create solutions and make a positive impact on someone's life, a goal I pursue in everything I do.
 
 ## 💻 Technologies I Use
 
