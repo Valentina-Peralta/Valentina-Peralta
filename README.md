@@ -17,7 +17,7 @@ If you'd like to connect or have any questions, feel free to reach out to me. Yo
 - LinkedIn: https://www.linkedin.com/in/valentinaperaltavila/
 - Portfolio: https://vperalta.netlify.app/
 
-## Thank you for visiting my GitHub profile. I look forward to collaborating, learning, and making meaningful contributions in the world of web development. Let's create amazing digital experiences together!
+## I look forward to collaborating, learning, and making meaningful contributions in the world of web development. Let's create amazing digital experiences together!
 
 
 
