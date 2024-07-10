@@ -1,14 +1,10 @@
 #  👋 Hi, welcome to my GitHub profile!
-I'm Valentina, web developer and mathematics teacher.
+I'm Valentina, web developer, DevOps engineer and mathematics teacher.
 
 ##  👀 About me
 Driven by a strong belief that knowledge empowers and a deep desire to make the world a better place, I initially pursued a career as a mathematics teacher. However, I later decided to merge my creativity and analytical thinking, which led me to discover the limitless world of programming.
 
 What fascinates me the most is the idea that there's always something new to learn and a problem to solve. Every line of code represents an opportunity to create solutions and make a positive impact on someone's life, a goal I pursue in everything I do.
-
-## 💻 Technologies I Use
-
-![image](https://github.com/Valentina-Peralta/Valentina-Peralta/assets/125395224/f5dce256-9cc7-4a6e-a37c-9775a3a3e33a)
 
 ## 📬 Get in touch
 If you'd like to connect or have any questions, feel free to reach out to me. You can find my contact information below:
