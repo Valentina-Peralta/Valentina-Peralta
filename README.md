@@ -28,8 +28,6 @@ Today, I dedicate myself to creating robust web applications, streamlining devel
 - **Containerization:** Docker, Kubernetes.  
 - **Configuration Management & Automation:** Ansible, Terraform.  
 
-### 🧩 Version Control & Collaboration  
-- **Tools:** Git, GitHub.  
 
 ---
 
