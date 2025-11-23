@@ -20,7 +20,7 @@ Today, I dedicate myself to creating robust web applications, streamlining devel
 ### 🌐 Web Development  
 - **Frontend:** React.js, Next.js, Angular, JavaScript, HTML, CSS.  
 - **Backend:** Node.js, Express.js, Python, Java.  
-- **Database Management:** PostgreSQL, MongoDB, MongoDB Atlas.  
+- **Database Management:** PostgreSQL, MongoDB, MySQL.  
 
 ### 🚀 DevOps & Infrastructure  
 - **Cloud Platforms:** AWS, GCP.  
